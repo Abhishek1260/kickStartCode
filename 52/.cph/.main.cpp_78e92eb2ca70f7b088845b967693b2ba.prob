@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"d:\\c++\\52\\main.cpp","tests":[{"id":1667044409495,"input":"3\n(a+b)\n((a+b))\n(a+(c+d))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\52\\main.cpp","group":"local","local":true}

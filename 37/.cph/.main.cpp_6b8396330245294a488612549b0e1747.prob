@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"d:\\c++\\37\\main.cpp","tests":[{"id":1666987207738,"input":"3\nMollaristan\nAuritania\nZizily","output":"Case #1: Mollaristan is ruled by Bob.\nCase #2: Auritania is ruled by Alice.\nCase #3: Zizily is ruled by nobody.\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\37\\main.cpp","group":"local","local":true}
