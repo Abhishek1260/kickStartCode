@@ -9,6 +9,7 @@
     "deque": "cpp",
     "stack": "cpp",
     "set": "cpp",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "queue": "cpp"
   }
 }

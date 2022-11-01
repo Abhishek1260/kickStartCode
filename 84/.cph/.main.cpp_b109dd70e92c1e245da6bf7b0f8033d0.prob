@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"d:\\c++\\84\\main.cpp","tests":[{"id":1667243703376,"input":"3\n5 3 6 2 3\nEEWNS\n4 3 3 1 1\nSESE\n11 5 8 3 4\nNEESSWWNESE","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\84\\main.cpp","group":"local","local":true}
